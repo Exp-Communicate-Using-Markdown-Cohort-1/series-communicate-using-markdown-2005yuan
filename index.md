@@ -20,3 +20,5 @@ private:
 	std::string s_;
 };
 ```
+- [x] First thing
+- [ ] Second thing
